@@ -1,0 +1,34 @@
+# Maven / Java
+/target/
+*.log
+*.tmp
+*.bak
+.classpath
+.project
+.settings/
+# IntelliJ
+/.idea/
+*.iml
+# VS Code workspace settings
+/.vscode/
+# OS files
+.DS_Store
+Thumbs.db
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+# Environment
+.env
+# Lombok
+/lombok.config
+# Gradle (if ever used)
+.gradle/
+
+# Keep local application properties out of VCS
+/src/main/resources/application-local.properties
+
+# Jar files
+*.jar
+
+# other
+*.swp
+*~
